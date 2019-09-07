@@ -1,0 +1,4 @@
+#Fri Sep 06 23:05:25 ICT 2019
+base.0=C\:\\Users\\HP\\AndroidStudioProjects\\MyRecyclerView\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
